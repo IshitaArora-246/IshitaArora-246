@@ -1,7 +1,10 @@
 ## Hello there, mates! 👋
 
+
+<p><img align="right" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" width="200&quot;" data-canonical-src="https://octodex.github.com/codercat/" style="max-width:100%;"></a></p>
 I am Ishita Arora. I am currently pursuing Computer Science Engineering at SRM Institute of Science and technology, Chennai.
 Fascinated by the multiple facets this branch of Science has to offer, I have developed interest in Web Development and App devlopment. I have gained proficiency in computer languages namely C++ and bit of Java and have spent most of my time exploring and improving my skills. 
+
 
 - 🌱 I’m currently learning ...Flutter
 - 😄 Pronouns: she/her
