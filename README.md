@@ -25,6 +25,10 @@ Fascinated by the multiple facets this branch of Science has to offer, I have de
 	<a href="https://www.linkedin.com/in/ishita-arora-/">
    		<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6%"/>
     </a>
+	<a href="https://www.hackerrank.com/ishitaiq24">
+   		<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="6%"/>
+    </a>
+	
 	<span>&nbsp;</span>
 	 <a href="https://github.com/IshitaArora-246">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="6%"/>
