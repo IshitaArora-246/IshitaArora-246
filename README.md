@@ -32,6 +32,6 @@ Fascinated by the multiple facets this branch of Science has to offer, I have de
 
 <br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshitaArora-246&theme=dark" />
-<br/><br/>
+<br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitaArora-246&show_icons=true&theme=dark)  
