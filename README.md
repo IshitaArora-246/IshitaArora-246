@@ -1,21 +1,21 @@
 ## Hello there, mates! 👋
 
 
-<p><img align="right" src="cat.png" width="400&quot;" style="max-width:100%;"></a></p>
+<p><img align="right" src="coder_cat.png" width="325&quot;" style="max-width:100%;"></a></p>
 I am Ishita Arora. I am currently pursuing Computer Science Engineering at SRM Institute of Science and technology, Chennai.
-Fascinated by the multiple facets this branch of Science has to offer, I have developed interest in Web Development and App devlopment. I have gained proficiency in computer languages namely C++ and bit of Java and have spent most of my time exploring and improving my skills. 
+Fascinated by the multiple facets this branch of Science has to offer, I have developed interest in Web Development and App devlopment. I have gained proficiency in computer languages namely C++ and bit of Java and have spent most of my time exploring and improving my skills. <br><br>
 
 
-- 🌱 I’m currently learning ...Flutter
+- 🌱 I’m currently learning Flutter
 - 😄 Pronouns: she/her
 
 <p>📫 Connect with me<br/>
 	<a href="https://www.linkedin.com/in/ishita-arora-/">
-   		<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+   		<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6%"/>
     </a>
 	<span>&nbsp;</span>
 	 <a href="https://github.com/IshitaArora-246">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="6%"/>
   </a>
   <span>&nbsp;</span></p>
 
