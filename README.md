@@ -1,25 +1,37 @@
-## Hello there, mates! 👋
+# Hello there, mates! 👋
 
-
-<p><img align="right" src="coder_cat.png" width="325&quot;" style="max-width:100%;"></a></p>
+<p><img align="right" src="robot.svg" width="350&quot;" style="max-width:100%;"></p>
 I am Ishita Arora. I am currently pursuing Computer Science Engineering at SRM Institute of Science and technology, Chennai.
-Fascinated by the multiple facets this branch of Science has to offer, I have developed interest in Web Development and App devlopment. I have gained proficiency in computer languages namely C++ and bit of Java and have spent most of my time exploring and improving my skills. <br><br>
+Fascinated by the multiple facets this branch of Science has to offer, I have developed keen interest in Web Development and App devlopment. I have gained proficiency in computer languages namely C++ and bit of Java and have spent most of my time exploring and improving my skills. <br><br>
 
 
-- 🌱 I’m currently learning Flutter
-- 😄 Pronouns: she/her
+## Languages and Tools
+<p>
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/flutter.png" width=30px>
+<!-- 	<img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/dart-logo" width=50px> -->
+	<img src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png" width=50px>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width=50px>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=35px><span>&nbsp;</span>
+	<img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width=40px><span>&nbsp;</span>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=35px>
+	<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width=43px>
+	<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=40px><span>&nbsp;</span>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width=40px>
+</p>
 
-<p>📫 Connect with me<br/>
+
+## Connect with me🤝
+<p>
 	<a href="https://www.linkedin.com/in/ishita-arora-/">
    		<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6%"/>
     </a>
 	<span>&nbsp;</span>
 	 <a href="https://github.com/IshitaArora-246">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="6%"/>
-  </a>
-  <span>&nbsp;</span></p>
+  </a></p>
 
-<br/><br/>
+<br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshitaArora-246&theme=dark" />
 <br/><br/>
-[![My github stats](https://github-readme-stats.vercel.app/api?username=IshitaArora-246&show_icons=true&theme=merko)](https://github.com/IshitaArora-246)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitaArora-246&show_icons=true&theme=dark)  
