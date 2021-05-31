@@ -15,7 +15,7 @@ Fascinated by the multiple facets this branch of Science has to offer, I have de
 	<img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width=40px><span>&nbsp;</span>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=35px>
 	<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width=45px>
-	<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=40px><span>&nbsp;</span>
+	<img src="https://img.icons8.com/fluent/48/000000/github.png" width=50px><span>&nbsp;</span>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width=40px>
 </p>
 
