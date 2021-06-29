@@ -30,9 +30,9 @@ Fascinated by the multiple facets this branch of Science has to offer, I have de
 </p>
 
 <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshitaArora-246&theme=dark" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshitaArora-246&theme=tokyonight" />
 <br/>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitaArora-246&show_icons=true&theme=dark)   -->
-[![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitaArora-246&theme=dark)](https://github.com/IshitaArora-246/github-readme-stats)
+[![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitaArora-246&theme=tokyonight)](https://github.com/IshitaArora-246/github-readme-stats)
 
