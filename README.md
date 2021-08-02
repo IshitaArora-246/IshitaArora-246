@@ -35,7 +35,7 @@ Fascinated by the multiple facets this branch of Science has to offer, I have de
 
 [![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitaArora-246&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=false)](https://github.com/IshitaArora-246/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaArora-246&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=false)](https://github.com/IshitaArora-246/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaArora-246&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/IshitaArora-246/github-readme-stats)
 
 
 
