@@ -2,7 +2,7 @@
 
 <p><img align="right" src="robot.svg" width="350&quot;" style="max-width:100%;"></p>
 I am Ishita Arora. I am currently pursuing Computer Science Engineering at SRM Institute of Science and technology, Chennai.
-Fascinated by the multiple facets this branch of Science has to offer, I have developed keen interest in Web Development and Flutter devlopment. I am familiar with C++ and Java and like to spend most of my time exploring and improving my skill set.<br>
+Fascinated by the multiple facets this branch of Science has to offer, I have developed keen interest in Web Development and Flutter Development. I am familiar with C++ and Java and like to spend most of my time exploring and improving my skill set.<br>
 
 
 ## Languages and Tools
